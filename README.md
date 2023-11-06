@@ -1,14 +1,13 @@
 
 
 
-# Hi there, I'm Harpitha Aakula
-## I'm an Machine learning and a Python developer
+# Hi , I'm Harpitha 👋
+
+![Harpitha (1)](https://github.com/HarpithaAakula/HarpithaAakula/assets/140746701/79556cc2-c862-4f85-8bbf-55b811056360)
 
 
-### Learning 
-* DSA
-* Discret math
-* Machine learning
+
+
 
 
 
