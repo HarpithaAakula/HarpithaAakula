@@ -41,14 +41,14 @@ Check Resume [Here](https://shorturl.at/enxI2)
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya-r-kothur&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarpithaAakula&show_icons=true&theme=transparent)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-r-kothur&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarpithaAakula&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adithya-r-kothur&label=Profile%20views&color=0e75b6&style=flat" alt="adithya-r-kothur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarpithaAakula&label=Profile%20views&color=0e75b6&style=flat" alt="adithya-r-kothur" /> </p>
 
 
